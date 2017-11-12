@@ -5,7 +5,7 @@ Software Engineer with 4 years of experience in Networking. I like to code and b
 ### Virtual-LAG:
 • Implemented Virtual-LAG on Brocade’s Fast-Iron Family Routers.
 ### Layer-2 Networking Protocol Support:
-• Implemented Virtual-LAN Configuration enhancements on Brocade’s Fast-Iron Family Routers.
+• Implemented Virtual-LAN Configuration enhancements on Brocade’s Fast-Iron Family Routers.<br />
 • Worked on Layer-2 Networking protocols. (VLAN, xSTP, dot1-BR)
 
 ### Software Engineer | Aricent | Sept 2013 - April 2016 (2.8 Years)
