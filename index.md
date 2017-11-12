@@ -1,9 +1,6 @@
 # About Me.
 I am passionate about developing scalable applications. I love to code and solve problems.
-Worked with Brocade Communications and Aricent for about 4 years and contributed to the design and develop Layer2 with Aricent and Brocade.
-
-Software Engineer with 4 years of experience in Networking. I love to code and solve problems. I spend my spare time reading books.
-I belive
+Worked at Brocade Communications and Aricent for about 4 years and contributed to the design and development of various Layer2/Layer3 Networking Protocol Features.
 
 # Experience
 ### Software Engineer | Brocade Communications | 04/16 - 05/17 | 1 Year
