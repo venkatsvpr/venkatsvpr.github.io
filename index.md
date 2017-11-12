@@ -1,14 +1,14 @@
 # About Me.
 Software Engineer with 4 years of experience in Networking. I like to code and build projects. I spend my spare time reading books.
 # Experience
-### Software Engineer | Brocade Communications | April 2016 - July 2017 (1 Year)
+### Software Engineer | Brocade Communications | 04/2016 - 05/2017 | 1 Year
 ### Virtual-LAG:
 • Implemented Virtual-LAG on Brocade’s Fast-Iron Family Routers.
 ### Layer-2 Networking Protocol Support:
 • Implemented Virtual-LAN Configuration enhancements on Brocade’s Fast-Iron Family Routers.<br />
 • Worked on Layer-2 Networking protocols. (VLAN, xSTP, dot1-BR)
 
-### Software Engineer | Aricent | Sept 2013 - April 2016 (2.8 Years)
+### Software Engineer | Aricent | 09/2013 - 04/2016 | 2.8 Years
 ### Multi-Chassis Link Aggregation:
 • Designed and developed Multi-Chassis Link Aggregation framework.<br />
 • Fixed multiple issues on the existing base code in Layer2,Layer 3 Networking protocols. (HB, LAG, VRRP, ICCH)
@@ -33,3 +33,32 @@ Primary & Secondary Education | Srivi Lions Mat. Hr. Sec. School | Graduated 200
 Languages: C, C++, Java, Python, HTML, CSS, PHP, Mysql<br />
 Technologies: GIT, Layer2/Layer3 Networking Protocols, Apache, Linux, Android<br />
 Tools: Microsoft Office, XAMP, WAMP, Wireshark, Android Studio, Dreamweaver, Photoshop, AfterEffects<br />
+
+# Projects
+### Priority/MLFQ Scheduler – C: 
+• Implemented a Priority scheduler using priority-donation to solve priority-inversion<br />
+• Designed and Implemented Multilevel feedback scheduler to reduce average wait time for threads on Pint-OS.<br />
+• Designed and Implemented Timer and Alarm Clock Infrastructure on Pint-OS<br />
+
+### System Call Infra - C:
+• Designed and Implemented the support for user-programs & user-memory access in Pint-OS.<br />
+• Designed and Developed the system call handling infrastructure in Pint-OS similar to Linux.<br />
+
+### Text Chat Application - C:
+• Designed and Implemented a TCP based Multi-Client Single-Client text chat application with buffering capability.<br />
+• File Sharing across Clients was also implemented.<br />
+
+### Reliable File Transfer - C:
+• Implemented reliable file transfer protocols like Alternating Bit Protocol, Go-back N, Selective Repeat.<br />
+
+### 2048 Game Solver - Python:
+• Implemented an 2048 Game Solver AI using min-max algorithm and alpha-beta pruning.<br />
+
+### Bike Share User Prediction - Python:
+• Implemented a Neural Network based Bike-Share User prediction by employing Gradient Descent and Back Propagation.<br />
+• Designed the model based on historical data to predict the future.<br />
+
+
+
+
+  
