@@ -1,6 +1,6 @@
 # About Me.
 I am passionate about developing scalable applications. I love to code and solve problems.
-Worked at Brocade Communications and Aricent for about 4 years and contributed to the design and development of various Layer2/Layer3 Networking Protocol Features.
+Have Worked at Brocade Communications and Aricent for about 4 years and contributed to the design and development of various Layer2/Layer3 Networking Software.
 
 # Experience
 ### Software Engineer | Brocade Communications | 04/16 - 05/17 | 1 Year
@@ -32,7 +32,7 @@ B.E. Elec. & Comm. Engg. | Mepco Schlenk Engineering College | 08/16 - 04/13 | 8
 Primary & Secondary Education | Srivi Lions Mat. Hr. Sec. School | 96.33% <br />
 
 # Proficiency
-Languages: C, C++, Java, Python, HTML, CSS, PHP, Mysql<br />
+Languages: C, C++, Java, Python, HTML, CSS, PHP, Mysql, R<br />
 Technologies: GIT, Layer2/Layer3 Networking Protocols, Apache, Linux, Android<br />
 Tools: Microsoft Office, XAMP, WAMP, Wireshark, Android Studio, Dreamweaver, Photoshop, AfterEffects<br />
 
